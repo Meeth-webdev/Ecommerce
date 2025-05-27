@@ -1,0 +1,92 @@
+[
+  {
+    "product": "Sony WH-1000XM5",
+    "price": "$399.00",
+    "images": [
+      "/images/headphones/sony-xm5-1.jpg",
+      "/images/headphones/sony-xm5-2.jpg",
+      "/images/headphones/sony-xm5-3.jpg"
+    ],
+    "description": "Industry-leading noise cancellation and crystal-clear sound. Lightweight with up to 30 hours of battery life and touch controls."
+  },
+  {
+    "product": "Bose QuietComfort 45",
+    "price": "$329.00",
+    "images": [
+      "/images/headphones/bose-qc45-1.jpg",
+      "/images/headphones/bose-qc45-2.jpg",
+      "/images/headphones/bose-qc45-3.jpg"
+    ],
+    "description": "Iconic comfort with deep, clear audio and adjustable noise cancellation. Ideal for travel and everyday use."
+  },
+  {
+    "product": "Apple AirPods Max",
+    "price": "$549.00",
+    "images": [
+      "/images/headphones/airpods-max-1.jpg",
+      "/images/headphones/airpods-max-2.jpg",
+      "/images/headphones/airpods-max-3.jpg"
+    ],
+    "description": "High-fidelity audio with Adaptive EQ and Active Noise Cancellation. Beautiful design and seamless Apple ecosystem integration."
+  },
+  {
+    "product": "Beats Studio Pro",
+    "price": "$349.00",
+    "images": [
+      "/images/headphones/beats-studio-pro-1.jpg",
+      "/images/headphones/beats-studio-pro-2.jpg",
+      "/images/headphones/beats-studio-pro-3.jpg"
+    ],
+    "description": "Bold bass and premium build. Active noise cancellation with a sleek design perfect for music on the go."
+  },
+  {
+    "product": "Sennheiser Momentum 4",
+    "price": "$379.00",
+    "images": [
+      "/images/headphones/momentum-4-1.jpg",
+      "/images/headphones/momentum-4-2.jpg",
+      "/images/headphones/momentum-4-3.jpg"
+    ],
+    "description": "Hi-fi sound with customizable noise cancellation. Long-lasting comfort and battery life up to 60 hours."
+  },
+  {
+    "product": "JBL Tour One M2",
+    "price": "$299.00",
+    "images": [
+      "/images/headphones/jbl-tour-one-1.jpg",
+      "/images/headphones/jbl-tour-one-2.jpg",
+      "/images/headphones/jbl-tour-one-3.jpg"
+    ],
+    "description": "Smart adaptive noise cancellation and JBL Pro Sound. Lightweight and comfortable for all-day wear."
+  },
+  {
+    "product": "AKG N700NC M2",
+    "price": "$249.00",
+    "images": [
+      "/images/headphones/akg-n700nc-1.jpg",
+      "/images/headphones/akg-n700nc-2.jpg",
+      "/images/headphones/akg-n700nc-3.jpg"
+    ],
+    "description": "Signature AKG sound with adaptive noise canceling and comfortable memory foam ear cushions."
+  },
+  {
+    "product": "Skullcandy Crusher ANC 2",
+    "price": "$229.00",
+    "images": [
+      "/images/headphones/skullcandy-crusher-1.jpg",
+      "/images/headphones/skullcandy-crusher-2.jpg",
+      "/images/headphones/skullcandy-crusher-3.jpg"
+    ],
+    "description": "Adjustable bass you can feel, personalized sound and ANC features for an immersive experience."
+  },
+  {
+    "product": "Marshall Monitor II ANC",
+    "price": "$319.00",
+    "images": [
+      "/images/headphones/marshall-monitor-1.jpg",
+      "/images/headphones/marshall-monitor-2.jpg",
+      "/images/headphones/marshall-monitor-3.jpg"
+    ],
+    "description": "Classic Marshall look with active noise canceling, premium materials, and powerful sound performance."
+  }
+]

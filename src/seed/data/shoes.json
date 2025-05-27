@@ -1,0 +1,122 @@
+[
+  {
+    "product": "Nike Air Max 270",
+    "price": "$149.99",
+    "images": [
+      "/images/shoes/airmax270-front.avif",
+      "/images/shoes/airmax270-side.avif",
+      "/images/shoes/airmax270-back.avif"
+    ],
+    "description": "Experience comfort and style with the Nike Air Max 270. Featuring a large Air unit for smooth rides and a sleek mesh design for breathability."
+  },
+  {
+    "product": "Adidas Ultraboost 22",
+    "price": "$179.99",
+    "images": [
+      "/images/shoes/ultraboost22-front.avif",
+      "/images/shoes/ultraboost22-side.webp",
+      "/images/shoes/ultraboost22-back.jpg"
+    ],
+    "description": "Responsive cushioning and adaptive fit make the Ultraboost 22 perfect for running and all-day wear."
+  },
+  {
+    "product": "Converse Chuck Taylor All Star",
+    "price": "$69.99",
+    "images": [
+      "/images/shoes/converse-front.webp",
+      "/images/shoes/converse-side.webp",
+      "/images/shoes/converse-back.jpg"
+    ],
+    "description": "A timeless classic, the Converse Chuck Taylor All Star is a wardrobe staple for casual and everyday wear."
+  },
+  {
+    "product": "New Balance 550",
+    "price": "$109.99",
+    "images": [
+      "/images/shoes/nb550-front.webp",
+      "/images/shoes/nb550-side.jpeg",
+      "/images/shoes/nb550-top.jpg"
+    ],
+    "description": "Retro basketball-inspired design meets modern comfort in the New Balance 550 sneakers."
+  },
+  {
+    "product": "Puma RS-X3",
+    "price": "$119.99",
+    "images": [
+      "/images/shoes/rsx3-front.jpg",
+      "/images/shoes/rsx3-side.jpg",
+      "/images/shoes/rsx3-back.jpg"
+    ],
+    "description": "The RS-X3 combines bold colors, exaggerated shapes, and upgraded cushioning for a standout look."
+  },
+  {
+    "product": "Air Jordan 1 Retro High OG 'Chicago'",
+    "price": "$200.00",
+    "images": [
+      "/images/shoes/chicago-front.jpg",
+      "/images/shoes/chicago-side.jpg",
+      "/images/shoes/chicago-back.webp"
+    ],
+    "description": "An iconic sneaker in the Jordan lineup, the 'Chicago' colorway features a classic red, white, and black combination inspired by the Chicago Bulls. Timeless and always in demand."
+  },
+  {
+    "product": "Air Jordan 4 Retro 'Bred'",
+    "price": "$210.00",
+    "images": [
+      "/images/shoes/bred-front.jpg",
+      "/images/shoes/bred-side.jpg",
+      "/images/shoes/bred-back.jpg"
+    ],
+    "description": "One of the most beloved silhouettes, the Air Jordan 4 'Bred' features black nubuck upper with red and grey accents. Worn by MJ during clutch playoff moments."
+  },
+  {
+    "product": "Air Jordan 11 Retro 'Concord'",
+    "price": "$220.00",
+    "images": [
+      "/images/shoes/concord-front.jpg",
+      "/images/shoes/concord-side.avif",
+      "/images/shoes/concord-back.jpg"
+    ],
+    "description": "A formal and flashy fan-favorite, the 'Concord' 11s feature a white mesh upper with shiny black patent leather. A perfect balance of performance and style."
+  },
+  {
+    "product": "Air Jordan 5 Retro 'Fire Red'",
+    "price": "$200.00",
+    "images": [
+      "/images/shoes/firered-front.webp",
+      "/images/shoes/firered-side.jpg",
+      "/images/shoes/firered-back.jpg"
+    ],
+    "description": "Celebrating heritage with a clean white leather upper and fire red details, this Air Jordan 5 pays tribute to MJ’s blazing 1990 season."
+  },
+  {
+    "product": "Travis Scott x Air Jordan 1 Low 'Reverse Mocha'",
+    "price": "$1250.00",
+    "images": [
+      "/images/shoes/reverse-mocha-front.jpg",
+      "/images/shoes/reverse-mocha-side.jpg",
+      "/images/shoes/reverse-mocha-back.jpg"
+    ],
+    "description": "The Travis Scott x Air Jordan 1 Low 'Reverse Mocha' flips the original colorway with a rich mocha brown base and white overlays. Featuring signature reverse Swoosh branding and Cactus Jack details, this pair blends hype and heritage seamlessly."
+  },
+  {
+    "product": "Travis Scott x Nike Air Max 1 'Baroque Brown'",
+    "price": "$750.00",
+    "images": [
+      "/images/shoes/baroque-brown-front.jpg",
+      "/images/shoes/baroque-brown-side.jpg",
+      "/images/shoes/baroque-brown-back.jpg"
+    ],
+    "description": "Designed in collaboration with Travis Scott, the Nike Air Max 1 'Baroque Brown' brings earthy tones and rugged materials together for a bold trail-inspired aesthetic. Features Cactus Jack branding and a unique lace system."
+  },
+  {
+    "product": "Travis Scott x Air Jordan 6 'British Khaki'",
+    "price": "$800.00",
+    "images": [
+      "/images/shoes/british-khaki-front.jpg",
+      "/images/shoes/british-khaki-side.jpg",
+      "/images/shoes/british-khaki-back.jpg"
+    ],
+    "description": "The Air Jordan 6 Retro 'British Khaki' by Travis Scott features suede construction with utility-inspired pockets on the ankle collar, glow-in-the-dark elements, and Cactus Jack branding throughout for a functional and stylish edge."
+  }
+]

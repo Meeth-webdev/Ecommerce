@@ -1,0 +1,122 @@
+[
+  {
+    "product": "Elden Ring",
+    "price": "$59.99",
+    "images": [
+      "/images/games/elden-ring-1.jpg",
+      "/images/games/elden-ring-2.jpg",
+      "/images/games/elden-ring-3.jpg"
+    ],
+    "description": "Elden Ring is an open-world action RPG by FromSoftware featuring vast exploration, deep lore, and challenging combat in a dark fantasy world co-created by George R.R. Martin."
+  },
+  {
+    "product": "God of War: Ragnarok",
+    "price": "$69.99",
+    "images": [
+      "/images/games/gow-ragnarok-1.jpg",
+      "/images/games/gow-ragnarok-2.jpg",
+      "/images/games/gow-ragnarok-3.jpg"
+    ],
+    "description": "God of War: Ragnarok continues Kratos and Atreus' journey through Norse mythology with epic combat, stunning visuals, and a powerful father-son narrative."
+  },
+  {
+    "product": "Hogwarts Legacy",
+    "price": "$54.99",
+    "images": [
+      "/images/games/hogwarts-1.jpg",
+      "/images/games/hogwarts-2.jpg",
+      "/images/games/hogwarts-3.jpg"
+    ],
+    "description": "Set in the 1800s Wizarding World, Hogwarts Legacy lets you become a student at Hogwarts, master spells, and uncover magical secrets in an expansive RPG experience."
+  },
+  {
+    "product": "Spider-Man 2",
+    "price": "$69.99",
+    "images": [
+      "/images/games/spiderman2-1.jpg",
+      "/images/games/spiderman2-2.jpg",
+      "/images/games/spiderman2-3.jpg"
+    ],
+    "description": "Swing through New York as Peter Parker and Miles Morales in Marvel’s Spider-Man 2, featuring new abilities, villains like Venom, and an emotionally rich story."
+  },
+  {
+    "product": "The Legend of Zelda: Tears of the Kingdom",
+    "price": "$59.99",
+    "images": [
+      "/images/games/zelda-totk-1.jpg",
+      "/images/games/zelda-totk-2.jpg",
+      "/images/games/zelda-totk-3.jpg"
+    ],
+    "description": "The sequel to Breath of the Wild, Tears of the Kingdom expands the open world of Hyrule with new sky islands, abilities, and a deeper mystery surrounding the kingdom’s past."
+  },
+  {
+    "product": "Cyberpunk 2077",
+    "price": "$49.99",
+    "images": [
+      "/images/games/cyberpunk-1.jpg",
+      "/images/games/cyberpunk-2.jpg",
+      "/images/games/cyberpunk-3.jpg"
+    ],
+    "description": "Cyberpunk 2077 is a futuristic open-world RPG set in Night City, offering deep character customization, branching narratives, and immersive first-person gameplay."
+  },
+  {
+    "product": "Resident Evil 4 Remake",
+    "price": "$59.99",
+    "images": [
+      "/images/games/re4-remake-1.jpg",
+      "/images/games/re4-remake-2.jpg",
+      "/images/games/re4-remake-3.jpg"
+    ],
+    "description": "Resident Evil 4 Remake revives the survival horror classic with modern graphics, tighter gameplay, and enhanced atmospheric tension as Leon Kennedy returns to rescue the president’s daughter."
+  },
+  {
+    "product": "Final Fantasy XVI",
+    "price": "$69.99",
+    "images": [
+      "/images/games/ff16-1.jpg",
+      "/images/games/ff16-2.jpg",
+      "/images/games/ff16-3.jpg"
+    ],
+    "description": "Final Fantasy XVI brings a dark fantasy world to life with real-time action combat, Eikon battles, and a rich storyline centered around the fate of the kingdom of Valisthea."
+  },
+  {
+    "product": "Starfield",
+    "price": "$69.99",
+    "images": [
+      "/images/games/starfield-1.jpg",
+      "/images/games/starfield-2.jpg",
+      "/images/games/starfield-3.jpg"
+    ],
+    "description": "Starfield is Bethesda's massive space exploration RPG, featuring over 1,000 planets, customizable ships, and deep character development in a universe waiting to be explored."
+  },
+  {
+    "product": "Assassin’s Creed Mirage",
+    "price": "$49.99",
+    "images": [
+      "/images/games/ac-mirage-1.jpg",
+      "/images/games/ac-mirage-2.jpg",
+      "/images/games/ac-mirage-3.jpg"
+    ],
+    "description": "Return to the roots of stealth and parkour in Assassin’s Creed Mirage, following the story of Basim in 9th century Baghdad as he transforms from street thief to Master Assassin."
+  },
+  {
+    "product": "Detroit: Become Human",
+    "price": "$29.00",
+    "images": [
+      "/images/games/detroit-1.jpg",
+      "/images/games/detroit-2.jpg",
+      "/images/games/detroit-3.jpg"
+    ],
+    "description": "Experience a gripping narrative in Detroit: Become Human. Your choices shape the fate of three androids as they navigate a near-future world on the brink of revolution."
+  },
+  {
+    "product": "Red Dead Redemption 2",
+    "price": "$59.00",
+    "images": [
+      "/images/games/rdr2-1.jpg",
+      "/images/games/rdr2-2.jpg",
+      "/images/games/rdr2-3.jpg"
+    ],
+    "description": "Ride into the heart of the Wild West with Arthur Morgan in Red Dead Redemption 2. This immersive open-world masterpiece offers breathtaking landscapes, deep storytelling, and intense action."
+  }
+]

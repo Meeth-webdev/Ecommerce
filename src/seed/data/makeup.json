@@ -1,0 +1,102 @@
+[
+  {
+    "product": "Fenty Beauty Pro Filt’r Foundation",
+    "price": "$38",
+    "images": [
+      "/images/makeup/fenty-foundation-1.jpg",
+      "/images/makeup/fenty-foundation-2.jpg",
+      "/images/makeup/fenty-foundation-3.jpg"
+    ],
+    "description": "A soft matte, long-wear foundation with buildable medium to full coverage in a boundary-breaking range of 50 shades."
+  },
+  {
+    "product": "Rare Beauty Soft Pinch Liquid Blush",
+    "price": "$23",
+    "images": [
+      "/images/makeup/rare-blush-1.jpg",
+      "/images/makeup/rare-blush-2.jpg",
+      "/images/makeup/rare-blush-3.jpg"
+    ],
+    "description": "A weightless, long-lasting liquid blush that blends beautifully for a soft, healthy flush of color that lasts all day."
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+    "price": "$38",
+    "images": [
+      "/images/makeup/ct-setting-spray-1.jpg",
+      "/images/makeup/ct-setting-spray-2.jpg",
+      "/images/makeup/ct-setting-spray-3.jpg"
+    ],
+    "description": "A hydrating setting spray that instantly locks in your makeup look for up to 16 hours — no melting, fading, or settling."
+  },
+  {
+    "product": "Huda Beauty Obsessions Eyeshadow Palette – Nude",
+    "price": "$29",
+    "images": [
+      "/images/makeup/huda-eyeshadow-1.jpg",
+      "/images/makeup/huda-eyeshadow-2.jpg",
+      "/images/makeup/huda-eyeshadow-3.jpg"
+    ],
+    "description": "A compact eyeshadow palette with a range of highly pigmented mattes and shimmer finishes in nude tones."
+  },
+  {
+    "product": "Dior Addict Lip Glow Balm",
+    "price": "$40",
+    "images": [
+      "/images/makeup/dior-lip-glow-1.jpg",
+      "/images/makeup/dior-lip-glow-2.jpg",
+      "/images/makeup/dior-lip-glow-3.jpg"
+    ],
+    "description": "A color-awakening lip balm that enhances your natural lip color while keeping them hydrated for up to 24 hours."
+  },
+  {
+    "product": "Maybelline Fit Me Matte + Poreless Foundation",
+    "price": "$9",
+    "images": [
+      "/images/makeup/foundation-1.jpg",
+      "/images/makeup/foundation-2.jpg",
+      "/images/makeup/foundation-3.jpg"
+    ],
+    "description": "A lightweight foundation for normal to oily skin, offering natural-looking medium coverage that refines pores and leaves a matte finish."
+  },
+  {
+    "product": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+    "price": "$11",
+    "images": [
+      "/images/makeup/mascara-1.jpg",
+      "/images/makeup/mascara-2.jpg",
+      "/images/makeup/mascara-3.jpg"
+    ],
+    "description": "Achieve full, voluminous lashes with this silky smooth formula. Features a soft wavy brush for maximum impact."
+  },
+  {
+    "product": "Fenty Beauty Gloss Bomb Universal Lip Luminizer",
+    "price": "$20",
+    "images": [
+      "/images/makeup/lipgloss-1.jpg",
+      "/images/makeup/lipgloss-2.jpg",
+      "/images/makeup/lipgloss-3.jpg"
+    ],
+    "description": "This lip gloss delivers explosive shine and an irresistible peach-vanilla scent. Made for all skin tones."
+  },
+  {
+    "product": "Anastasia Beverly Hills Brow Wiz",
+    "price": "$23",
+    "images": [
+      "/images/makeup/browwiz-1.jpg",
+      "/images/makeup/browwiz-2.jpg",
+      "/images/makeup/browwiz-3.jpg"
+    ],
+    "description": "An ultra-slim, retractable eyebrow pencil ideal for filling in sparse brows with precise hair-like strokes."
+  },
+  {
+    "product": "NARS Radiant Creamy Concealer",
+    "price": "$31",
+    "images": [
+      "/images/makeup/concealer-1.jpg",
+      "/images/makeup/concealer-2.jpg",
+      "/images/makeup/concealer-3.jpg"
+    ],
+    "description": "A creamy concealer with buildable coverage and a radiant finish that blurs and brightens the skin."
+  }
+]

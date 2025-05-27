@@ -1,0 +1,72 @@
+[
+  {
+    "product": "Neutrogena Oil-Free Acne Wash",
+    "price": "$9.49",
+    "images": [
+      "/images/facewash/neutrogena-acnewash-1.jpg",
+      "/images/facewash/neutrogena-acnewash-2.jpg",
+      "/images/facewash/neutrogena-acnewash-3.jpg"
+    ],
+    "description": "Salicylic acid-based facial cleanser that helps treat and prevent acne without over-drying the skin."
+  },
+  {
+    "product": "La Roche-Posay Toleriane Hydrating Gentle Cleanser",
+    "price": "$15.59",
+    "images": [
+      "/images/facewash/laroche-hydrating-1.jpg",
+      "/images/facewash/laroche-hydrating-2.jpg",
+      "/images/facewash/laroche-hydrating-3.jpg"
+    ],
+    "description": "A cream-based gentle cleanser suitable for normal to dry skin. Formulated with niacinamide and prebiotic thermal water."
+  },
+  {
+    "product": "Himalaya Purifying Neem Face Wash",
+    "price": "$5.50",
+    "images": [
+      "/images/facewash/himalaya-neem-1.jpg",
+      "/images/facewash/himalaya-neem-2.jpg",
+      "/images/facewash/himalaya-neem-3.jpg"
+    ],
+    "description": "Soap-free herbal formulation that cleans impurities and helps clear up pimples, enriched with neem and turmeric."
+  },
+  {
+    "product": "Biotique Bio Honey Gel Face Wash",
+    "price": "$4.99",
+    "images": [
+      "/images/facewash/biotique-honey-1.jpg",
+      "/images/facewash/biotique-honey-2.jpg",
+      "/images/facewash/biotique-honey-3.jpg"
+    ],
+    "description": "Refreshing foaming gel blended with pure honey and extracts of the bark of the Arjun tree, euphorbia plant and wild turmeric."
+  },
+  {
+    "product": "Cetaphil Gentle Skin Cleanser",
+    "price": "$11.49",
+    "images": [
+      "/images/facewash/cetaphil-gentle-1.jpg",
+      "/images/facewash/cetaphil-gentle-2.jpg",
+      "/images/facewash/cetaphil-gentle-3.jpg"
+    ],
+    "description": "A gentle, non-irritating cleanser ideal for sensitive skin, suitable for both face and body use."
+  },
+  {
+    "product": "WOW Skin Science Apple Cider Vinegar Foaming Face Wash",
+    "price": "$8.99",
+    "images": [
+      "/images/facewash/wow-acv-1.jpg",
+      "/images/facewash/wow-acv-2.jpg",
+      "/images/facewash/wow-acv-3.jpg"
+    ],
+    "description": "Infused with apple cider vinegar, aloe vera, and vitamins B5 and E to cleanse pores and restore pH balance."
+  },
+  {
+    "product": "Plum Green Tea Pore Cleansing Face Wash",
+    "price": "$7.99",
+    "images": [
+      "/images/facewash/plum-greentea-1.jpg",
+      "/images/facewash/plum-greentea-2.jpg",
+      "/images/facewash/plum-greentea-3.jpg"
+    ],
+    "description": "A gentle foaming face wash with green tea extracts and glycolic acid to fight acne and exfoliate skin naturally."
+  }
+]

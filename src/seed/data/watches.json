@@ -1,0 +1,102 @@
+[
+  {
+    "product": "Apple Watch Series 9",
+    "price": "$399",
+    "images": [
+      "/images/watches/apple-watch-9-1.jpg",
+      "/images/watches/apple-watch-9-2.jpg",
+      "/images/watches/apple-watch-9-3.jpg"
+    ],
+    "description": "Apple's latest smartwatch with advanced health features, brighter display, and faster performance. Perfect for fitness and productivity."
+  },
+  {
+    "product": "Samsung Galaxy Watch 6",
+    "price": "$319",
+    "images": [
+      "/images/watches/galaxy-watch-6-1.jpg",
+      "/images/watches/galaxy-watch-6-2.jpg",
+      "/images/watches/galaxy-watch-6-3.jpg"
+    ],
+    "description": "Premium design with powerful wellness tracking and seamless integration with Android devices."
+  },
+  {
+    "product": "Garmin Fenix 7X Solar",
+    "price": "$899",
+    "images": [
+      "/images/watches/garmin-fenix-7x-1.jpg",
+      "/images/watches/garmin-fenix-7x-2.jpg",
+      "/images/watches/garmin-fenix-7x-3.jpg"
+    ],
+    "description": "Rugged smartwatch built for adventure with solar charging, GPS, and advanced training metrics."
+  },
+  {
+    "product": "Fossil Gen 6 Smartwatch",
+    "price": "$299",
+    "images": [
+      "/images/watches/fossil-gen6-1.jpg",
+      "/images/watches/fossil-gen6-2.jpg",
+      "/images/watches/fossil-gen6-3.jpg"
+    ],
+    "description": "Stylish smartwatch with Wear OS by Google, fast charging, and all-day fitness tracking."
+  },
+  {
+    "product": "Fitbit Sense 2",
+    "price": "$249",
+    "images": [
+      "/images/watches/fitbit-sense-2-1.jpg",
+      "/images/watches/fitbit-sense-2-2.jpg",
+      "/images/watches/fitbit-sense-2-3.jpg"
+    ],
+    "description": "Advanced health and fitness tracker with ECG, stress management, and sleep tracking."
+  },
+  {
+    "product": "TicWatch Pro 5",
+    "price": "$359",
+    "images": [
+      "/images/watches/ticwatch-pro-5-1.jpg",
+      "/images/watches/ticwatch-pro-5-2.jpg",
+      "/images/watches/ticwatch-pro-5-3.jpg"
+    ],
+    "description": "Durable smartwatch with dual-display technology, long battery life, and comprehensive health monitoring."
+  },
+  {
+    "product": "Casio G-Shock GBD-H2000",
+    "price": "$399",
+    "images": [
+      "/images/watches/gshock-gbdh2000-1.jpg",
+      "/images/watches/gshock-gbdh2000-2.jpg",
+      "/images/watches/gshock-gbdh2000-3.jpg"
+    ],
+    "description": "Extreme durability meets advanced sports features including GPS and heart rate tracking."
+  },
+  {
+    "product": "Suunto 9 Peak Pro",
+    "price": "$499",
+    "images": [
+      "/images/watches/suunto-9peakpro-1.jpg",
+      "/images/watches/suunto-9peakpro-2.jpg",
+      "/images/watches/suunto-9peakpro-3.jpg"
+    ],
+    "description": "Ultra-thin, powerful GPS sports watch for endurance athletes with over 80 sport modes."
+  },
+  {
+    "product": "Huawei Watch GT 4",
+    "price": "$269",
+    "images": [
+      "/images/watches/huawei-gt4-1.jpg",
+      "/images/watches/huawei-gt4-2.jpg",
+      "/images/watches/huawei-gt4-3.jpg"
+    ],
+    "description": "Elegant design with long battery life and all-day health monitoring. Great for Android and iOS users."
+  },
+  {
+    "product": "Amazfit GTR 4",
+    "price": "$199",
+    "images": [
+      "/images/watches/amazfit-gtr4-1.jpg",
+      "/images/watches/amazfit-gtr4-2.jpg",
+      "/images/watches/amazfit-gtr4-3.jpg"
+    ],
+    "description": "Affordable yet feature-rich smartwatch with dual-band GPS, sleep tracking, and vibrant AMOLED display."
+  }
+]

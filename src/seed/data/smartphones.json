@@ -1,0 +1,102 @@
+[
+  {
+    "product": "Apple iPhone 15 Pro Max",
+    "price": "$1,199.00",
+    "images": [
+      "/images/smartphones/iphone15pro-1.jpg",
+      "/images/smartphones/iphone15pro-2.jpg",
+      "/images/smartphones/iphone15pro-3.jpg"
+    ],
+    "description": "The iPhone 15 Pro Max features a titanium body, A17 Pro chip, and powerful triple-camera system for unmatched performance and photography."
+  },
+  {
+    "product": "Samsung Galaxy S24 Ultra",
+    "price": "$1,099.00",
+    "images": [
+      "/images/smartphones/s24ultra-1.jpg",
+      "/images/smartphones/s24ultra-2.jpg",
+      "/images/smartphones/s24ultra-3.jpg"
+    ],
+    "description": "The Galaxy S24 Ultra offers a stunning QHD+ AMOLED display, 200MP camera, and S Pen for the ultimate flagship experience."
+  },
+  {
+    "product": "Google Pixel 8 Pro",
+    "price": "$999.00",
+    "images": [
+      "/images/smartphones/pixel8pro-1.jpg",
+      "/images/smartphones/pixel8pro-2.jpg",
+      "/images/smartphones/pixel8pro-3.jpg"
+    ],
+    "description": "Pixel 8 Pro delivers pure Android, Google's AI-powered Tensor G3 chip, and pro-level camera features in a sleek matte design."
+  },
+  {
+    "product": "OnePlus 12",
+    "price": "$899.00",
+    "images": [
+      "/images/smartphones/oneplus12-1.jpg",
+      "/images/smartphones/oneplus12-2.jpg",
+      "/images/smartphones/oneplus12-3.jpg"
+    ],
+    "description": "With Snapdragon 8 Gen 3, 120Hz AMOLED display, and blazing-fast charging, the OnePlus 12 is built for speed and smooth performance."
+  },
+  {
+    "product": "Xiaomi 13 Pro",
+    "price": "$849.00",
+    "images": [
+      "/images/smartphones/xiaomi13pro-1.jpg",
+      "/images/smartphones/xiaomi13pro-2.jpg",
+      "/images/smartphones/xiaomi13pro-3.jpg"
+    ],
+    "description": "Xiaomi 13 Pro brings a Leica-tuned camera setup, ceramic build, and stunning performance at a competitive price."
+  },
+  {
+    "product": "Nothing Phone (2)",
+    "price": "$699.00",
+    "images": [
+      "/images/smartphones/nothingphone2-1.jpg",
+      "/images/smartphones/nothingphone2-2.jpg",
+      "/images/smartphones/nothingphone2-3.jpg"
+    ],
+    "description": "Nothing Phone (2) features a unique transparent design, Glyph Interface, and a clean Android experience."
+  },
+  {
+    "product": "ASUS ROG Phone 8",
+    "price": "$1,099.00",
+    "images": [
+      "/images/smartphones/rogphone8-1.jpg",
+      "/images/smartphones/rogphone8-2.jpg",
+      "/images/smartphones/rogphone8-3.jpg"
+    ],
+    "description": "The ROG Phone 8 is a beast for gamers with an AMOLED 165Hz screen, gaming triggers, and Snapdragon 8 Gen 3 chip."
+  },
+  {
+    "product": "Sony Xperia 1 V",
+    "price": "$1,299.00",
+    "images": [
+      "/images/smartphones/xperia1v-1.jpg",
+      "/images/smartphones/xperia1v-2.jpg",
+      "/images/smartphones/xperia1v-3.jpg"
+    ],
+    "description": "Sony Xperia 1 V is built for content creators with its 4K OLED display and advanced pro camera system."
+  },
+  {
+    "product": "Motorola Edge+ (2023)",
+    "price": "$799.00",
+    "images": [
+      "/images/smartphones/edgeplus-1.jpg",
+      "/images/smartphones/edgeplus-2.jpg",
+      "/images/smartphones/edgeplus-3.jpg"
+    ],
+    "description": "Motorola Edge+ combines a curved 165Hz OLED display with powerful specs and clean software for a premium feel."
+  },
+  {
+    "product": "Realme GT5 Pro",
+    "price": "$649.00",
+    "images": [
+      "/images/smartphones/gt5pro-1.jpg",
+      "/images/smartphones/gt5pro-2.jpg",
+      "/images/smartphones/gt5pro-3.jpg"
+    ],
+    "description": "Realme GT5 Pro delivers top-tier specs, fast charging, and performance at an unbeatable price point."
+  }
+]

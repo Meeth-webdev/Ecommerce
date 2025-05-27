@@ -1,0 +1,92 @@
+[
+  {
+    "product": "Apple MacBook Pro 16\" M3 Max",
+    "price": "$3,499.00",
+    "images": [
+      "/images/laptops/macbookpro16-1.jpg",
+      "/images/laptops/macbookpro16-2.jpg",
+      "/images/laptops/macbookpro16-3.jpg"
+    ],
+    "description": "The MacBook Pro 16\" with M3 Max chip delivers unparalleled performance for creators and developers, with a Liquid Retina XDR display and long battery life."
+  },
+  {
+    "product": "Dell XPS 15 OLED (2024)",
+    "price": "$2,199.00",
+    "images": [
+      "/images/laptops/dellxps15-1.jpg",
+      "/images/laptops/dellxps15-2.jpg",
+      "/images/laptops/dellxps15-3.jpg"
+    ],
+    "description": "The Dell XPS 15 features a stunning OLED 4K display, 13th Gen Intel processor, and a sleek aluminum chassis built for productivity and media."
+  },
+  {
+    "product": "HP Spectre x360 14",
+    "price": "$1,699.00",
+    "images": [
+      "/images/laptops/hpspectre-1.jpg",
+      "/images/laptops/hpspectre-2.jpg",
+      "/images/laptops/hpspectre-3.jpg"
+    ],
+    "description": "With a flexible 2-in-1 design, OLED display, and long battery life, the Spectre x360 is perfect for creative professionals on the go."
+  },
+  {
+    "product": "ASUS ROG Zephyrus G14",
+    "price": "$1,899.00",
+    "images": [
+      "/images/laptops/rogzephyrus-1.jpg",
+      "/images/laptops/rogzephyrus-2.jpg",
+      "/images/laptops/rogzephyrus-3.jpg"
+    ],
+    "description": "The Zephyrus G14 is a compact powerhouse with Ryzen 9 and RTX 4070 graphics, ideal for gamers and creators."
+  },
+  {
+    "product": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "price": "$1,899.00",
+    "images": [
+      "/images/laptops/thinkpadx1-1.jpg",
+      "/images/laptops/thinkpadx1-2.jpg",
+      "/images/laptops/thinkpadx1-3.jpg"
+    ],
+    "description": "A business-class laptop with legendary durability, the ThinkPad X1 Carbon offers lightweight design, fast performance, and robust security features."
+  },
+  {
+    "product": "Razer Blade 16 (2024)",
+    "price": "$2,799.00",
+    "images": [
+      "/images/laptops/razerblade16-1.jpg",
+      "/images/laptops/razerblade16-2.jpg",
+      "/images/laptops/razerblade16-3.jpg"
+    ],
+    "description": "Built for gamers and creators, the Blade 16 features a dual-mode Mini-LED display and top-tier NVIDIA RTX graphics for stunning performance."
+  },
+  {
+    "product": "Microsoft Surface Laptop 5",
+    "price": "$1,299.00",
+    "images": [
+      "/images/laptops/surfacelaptop5-1.jpg",
+      "/images/laptops/surfacelaptop5-2.jpg",
+      "/images/laptops/surfacelaptop5-3.jpg"
+    ],
+    "description": "The Surface Laptop 5 combines elegant design with touchscreen versatility, Intel Evo performance, and all-day battery life."
+  },
+  {
+    "product": "MSI Stealth 17 Studio",
+    "price": "$2,499.00",
+    "images": [
+      "/images/laptops/msistealth17-1.jpg",
+      "/images/laptops/msistealth17-2.jpg",
+      "/images/laptops/msistealth17-3.jpg"
+    ],
+    "description": "With a sleek chassis and powerful hardware, the MSI Stealth 17 is built for both gaming and content creation on the go."
+  },
+  {
+    "product": "LG Gram 17 (2024)",
+    "price": "$1,799.00",
+    "images": [
+      "/images/laptops/lggram17-1.jpg",
+      "/images/laptops/lggram17-2.jpg",
+      "/images/laptops/lggram17-3.jpg"
+    ],
+    "description": "Ultra-light and ultra-large, the LG Gram 17 offers productivity with a massive screen and all-day battery in a featherweight body."
+  }
+]

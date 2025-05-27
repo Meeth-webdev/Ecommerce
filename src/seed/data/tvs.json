@@ -1,0 +1,102 @@
+[
+  {
+    "product": "Samsung 65\" QLED 4K Smart TV",
+    "price": "$1199",
+    "images": [
+      "/images/tvs/samsung-qled-1.jpg",
+      "/images/tvs/samsung-qled-2.jpg",
+      "/images/tvs/samsung-qled-3.jpg"
+    ],
+    "description": "Samsung’s 65-inch QLED 4K Smart TV offers stunning picture quality with Quantum Dot technology and a sleek, bezel-less design. Includes built-in voice assistants and multiple streaming apps."
+  },
+  {
+    "product": "LG 55\" OLED Evo 4K Smart TV",
+    "price": "$1499",
+    "images": [
+      "/images/tvs/lg-oled-1.jpg",
+      "/images/tvs/lg-oled-2.jpg",
+      "/images/tvs/lg-oled-3.jpg"
+    ],
+    "description": "LG’s OLED Evo TV delivers perfect blacks and brilliant contrast with self-lit pixels, Dolby Vision IQ, and immersive sound powered by AI-enhanced processing."
+  },
+  {
+    "product": "Sony 75\" BRAVIA XR 4K TV",
+    "price": "$1799",
+    "images": [
+      "/images/tvs/sony-bravia-1.jpg",
+      "/images/tvs/sony-bravia-2.jpg",
+      "/images/tvs/sony-bravia-3.jpg"
+    ],
+    "description": "Sony’s BRAVIA XR series features Cognitive Processor XR for lifelike color and contrast. Supports Google TV, HDMI 2.1 for gaming, and XR Motion Clarity."
+  },
+  {
+    "product": "TCL 50\" 5-Series 4K QLED Roku TV",
+    "price": "$479",
+    "images": [
+      "/images/tvs/tcl-5series-1.jpg",
+      "/images/tvs/tcl-5series-2.jpg",
+      "/images/tvs/tcl-5series-3.jpg"
+    ],
+    "description": "TCL’s 50-inch QLED TV provides amazing value with Roku built-in, Quantum Dot color, and Dolby Vision support at an affordable price point."
+  },
+  {
+    "product": "Vizio 65\" P-Series Quantum 4K TV",
+    "price": "$899",
+    "images": [
+      "/images/tvs/vizio-pseries-1.jpg",
+      "/images/tvs/vizio-pseries-2.jpg",
+      "/images/tvs/vizio-pseries-3.jpg"
+    ],
+    "description": "The Vizio P-Series Quantum TV features ultra-bright display, 4K HDR support, and SmartCast platform for easy access to your favorite streaming services."
+  },
+  {
+    "product": "Hisense 55\" ULED 4K Smart TV",
+    "price": "$649",
+    "images": [
+      "/images/tvs/hisense-uled-1.jpg",
+      "/images/tvs/hisense-uled-2.jpg",
+      "/images/tvs/hisense-uled-3.jpg"
+    ],
+    "description": "This Hisense 4K ULED TV combines Dolby Vision, Dolby Atmos, and a game mode pro with full-array local dimming for stunning performance at a great price."
+  },
+  {
+    "product": "Panasonic 65\" 4K Android TV",
+    "price": "$999",
+    "images": [
+      "/images/tvs/panasonic-androidtv-1.jpg",
+      "/images/tvs/panasonic-androidtv-2.jpg",
+      "/images/tvs/panasonic-androidtv-3.jpg"
+    ],
+    "description": "Panasonic’s Android TV provides seamless integration with Google Assistant and Chromecast. Enjoy vibrant color and smart features in a beautiful design."
+  },
+  {
+    "product": "Philips 58\" 4K UHD Smart TV with Ambilight",
+    "price": "$729",
+    "images": [
+      "/images/tvs/philips-ambilight-1.jpg",
+      "/images/tvs/philips-ambilight-2.jpg",
+      "/images/tvs/philips-ambilight-3.jpg"
+    ],
+    "description": "Philips Ambilight adds immersive lighting that reacts to on-screen content. This 4K UHD TV also includes HDR10+ support and intuitive smart controls."
+  },
+  {
+    "product": "Toshiba 55\" Fire TV Edition 4K UHD",
+    "price": "$499",
+    "images": [
+      "/images/tvs/toshiba-firetv-1.jpg",
+      "/images/tvs/toshiba-firetv-2.jpg",
+      "/images/tvs/toshiba-firetv-3.jpg"
+    ],
+    "description": "Toshiba’s Fire TV Edition delivers hands-free Alexa voice control, seamless streaming, and stunning 4K UHD picture for all your favorite content."
+  },
+  {
+    "product": "Sharp 60\" Aquos 4K Smart TV",
+    "price": "$599",
+    "images": [
+      "/images/tvs/sharp-aquos-1.jpg",
+      "/images/tvs/sharp-aquos-2.jpg",
+      "/images/tvs/sharp-aquos-3.jpg"
+    ],
+    "description": "Sharp Aquos TV delivers brilliant 4K resolution with built-in streaming apps, ultra-slim bezels, and powerful picture enhancement technologies."
+  }
+]
