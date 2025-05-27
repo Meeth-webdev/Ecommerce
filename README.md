@@ -21,3 +21,5 @@ This is a full-stack e-commerce website built with **Next.js**, **React**, **Mon
 - **Mongoose**
 - **Tailwind CSS**
 - **Framer Motion**
+- **ShadCN**
+  
