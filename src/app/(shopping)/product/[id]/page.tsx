@@ -50,7 +50,7 @@ function Page() {
     fetchProduct();
   }, [id]);
  
-  const handleCartClick = async (id:String) => {
+  const handleCartClick = async (id:string) => {
     try {
       // Fetch full product data using the id
       const { data: productData } = await axios.get(`/api/product/${id}`);

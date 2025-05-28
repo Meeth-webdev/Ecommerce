@@ -16,14 +16,14 @@ export async function POST(request: NextRequest) {
     await dbConnect();
 
     const body = await request.json();
-    const { productId, product, price, images, description } = body;
+    const { productId, product, price, images, description,id } = body;
 
-    // 🧠 Check if the product object is fully provided (main page case)
+
     if (product && price && images && description) {
-      // Full product data is provided, no need to fetch
+      
       const productData = { productId, product, price, images,description };
 
-      // 🛡 Check if product already exists in user's cart
+  
       const existingProduct = await AddCartModel.findOne({
         productId: productData.productId.toString(),
         userEmail: session.user?.email,
@@ -36,7 +36,7 @@ export async function POST(request: NextRequest) {
         );
       }
 
-      // 🛒 Add to cart
+     
       const createdProduct = await AddCartModel.create({
         productId: productData.productId,
         product: productData.product,

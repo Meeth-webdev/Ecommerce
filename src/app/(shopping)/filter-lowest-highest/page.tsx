@@ -12,7 +12,7 @@ import { Button } from '@/components/ui/button';
 import Navbar from '@/components/Navbar';
 import { Repeat } from 'lucide-react';
 import Footer from '@/components/footer';
-function page() {
+function Page() {
   type Product = {
     _id: string;
     product: string;
@@ -144,4 +144,4 @@ function page() {
   );
 }
 
-export default page
+export default Page

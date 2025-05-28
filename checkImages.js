@@ -6,8 +6,8 @@ import path from "path"
 const MONGO_URI = 'mongodb+srv://Meeth:meethkajal123@projects.sz2w1jh.mongodb.net/?retryWrites=true&w=majority&appName=Projects'
 
 const productSchema = new mongoose.Schema({
-  product: String,
-  images: [String],
+  product: string,
+  images: [string],
 })
 
 const Product = mongoose.model('Product', productSchema,'custom_products')

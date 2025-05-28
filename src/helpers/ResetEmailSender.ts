@@ -11,7 +11,7 @@ export async function ResetEmailSender(
   try {
     console.log("Sending email to:", email);
     const { data, error } = await resend.emails.send({
-      from: 'Acme <onboarding@resend.dev>',
+      from: 'Ecom Store <support@ecom-store.in>',
       to: email,
       subject: 'Welcome to our new ecommerce website',
       react: resendemailtemplate({ otp: verifyCode }),

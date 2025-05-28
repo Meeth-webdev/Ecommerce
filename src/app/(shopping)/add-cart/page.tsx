@@ -181,8 +181,9 @@ function Page() {
           </div>
         </div>
       )}
-      <Footer/>
+      
     </div>
+    
   );
 }
 

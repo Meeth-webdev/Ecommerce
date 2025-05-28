@@ -43,7 +43,7 @@ function VerifyReset(){
             
           } catch (error) {
               const axiosEror=error as AxiosError<ApiResponse>;
-                    let errorMessage=axiosEror.response?.data.message 
+                    const errorMessage=axiosEror.response?.data.message 
                     toast("Signup failed",{
                       description:errorMessage,
                       

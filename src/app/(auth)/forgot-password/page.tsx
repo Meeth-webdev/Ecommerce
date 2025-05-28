@@ -34,13 +34,6 @@ import Spinner from '@/components/spinner'
       email: ''
     }
   })
-  useEffect(() => {
-    const isVerified = localStorage.getItem("resetVerified");
-    if (!isVerified) {
-      toast.error("Please verify your email first");
-      router.replace("/verify-reset"); // or redirect to initial step
-    }
-  }, []);
 
   const onSubmit = async () => {
     setIsLoading(true)

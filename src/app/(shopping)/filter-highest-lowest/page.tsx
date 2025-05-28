@@ -12,7 +12,7 @@ import { Button } from '@/components/ui/button';
 import Navbar from '@/components/Navbar';
 import { Repeat } from 'lucide-react';
 import Footer from '@/components/footer';
-function page() {
+function Page() {
   type Product = {
     _id: string;
     product: string;
@@ -58,7 +58,7 @@ function page() {
       } else {
         toast.warning(response.data.message || "Product already exists.");
       }
-    } catch (error: any) {
+    } catch (error:any) {
       if (error.response && error.response.status === 409) {
         toast.warning(error.response.data.message || "This item is already in your cart.");
       } else if (error.response && error.response.status === 401) {
@@ -144,4 +144,4 @@ function page() {
   );
 }
 
-export default page
+export default Page

@@ -6,7 +6,7 @@ import Searchbar from './Searchbar'
 import { Dancing_Script } from 'next/font/google'
 import { Menu, X } from 'lucide-react'
 import Link from 'next/link'
-import Filter from './filter'
+import Filter from './Filter'
 const dancingScript = Dancing_Script({
   weight: ['600'],
   subsets: ['latin'],

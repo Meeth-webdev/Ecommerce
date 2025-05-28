@@ -1,6 +1,6 @@
 'use client'
 import { Button } from '@/components/ui/button'
-import { FormControl, FormDescription, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
+import { FormControl,FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form'
 import { Input } from '@/components/ui/input'
 import { verifySchema } from '@/schemas/verificationSchema'
 import { ApiResponse } from '@/types/ApiResponse'
@@ -39,7 +39,7 @@ function VerifyAccount() {
            router.replace('/')
         } catch (error) {
             const axiosEror=error as AxiosError<ApiResponse>;
-                  let errorMessage=axiosEror.response?.data.message 
+                  const errorMessage=axiosEror.response?.data.message 
                   toast("Signup failed",{
                     description:errorMessage,
                     

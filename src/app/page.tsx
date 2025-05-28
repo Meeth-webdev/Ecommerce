@@ -4,7 +4,6 @@ import Navbar from '@/components/Navbar'
 import { toast } from 'sonner'
 import { Card, CardContent } from "@/components/ui/card"
 import { useEffect,useState } from 'react'
-import { Cormorant_Garamond } from 'next/font/google'
 import { Button } from '@/components/ui/button'
 import TypingText from '@/components/typingtext'
 import { useSession } from 'next-auth/react';
@@ -15,11 +14,8 @@ import axios from 'axios'
 import ShuffleDeck from '@/components/ShuffleCard'
 import { motion } from 'framer-motion'
 import Footer from '@/components/footer'
-const cormorant = Cormorant_Garamond({
-  weight: '700',
-  subsets: ['latin'],
-})
-function page() {
+
+function Page() {
   type Product = {
     _id: string;
     product: string;        
@@ -175,4 +171,4 @@ function page() {
   )
 }
 
-export default page
+export default Page

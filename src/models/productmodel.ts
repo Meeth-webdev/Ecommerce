@@ -1,10 +1,10 @@
 import mongoose, { Schema } from "mongoose";
 export interface Product extends Document{
-  product:String;
-  price:String;
-  image:String;
-  description:String;
-    createdAt:String
+  product:string;
+  price:string;
+  image:string;
+  description:string;
+    createdAt:string
 }
 const ProductSchema:Schema<Product>=new Schema({
 product:{
@@ -14,9 +14,7 @@ product:{
 price:{
     type:String
 },
-image:{
-    type:[String],
-},
+image: [String],
 description:{
     type:String,
 },
