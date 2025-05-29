@@ -85,21 +85,20 @@ function Page() {
   return (
     <div className='bg-gradient-to-b from-gray-800 via-gray-900 to-black min-h-screen'>
       <Navbar />
-      <div className="text-white flex justify-center items-center gap-8 mt-10 pb-2">
-  
-      <div className="flex items-center gap-4">
-        <FilterIcon size={80} />
-          <span className="text-6xl font-bold">Filter-Page</span>
-        </div>
-
- 
-        <div className="flex items-center gap-2">
-        <Repeat size={50} />
-        <Link href="/filter-lowest-highest" className="text-3xl font-bold hover:underline">
-         Lowest-Highest
-            </Link>
+      <div className="text-white flex flex-col md:flex-row justify-center items-center gap-6 md:gap-12 mt-10 pb-4 px-4 text-center md:text-left">
+     
+           <div className="flex items-center gap-3 md:gap-4">
+          <FilterIcon className="w-10 h-10 sm:w-12 sm:h-12 md:w-20 md:h-20" />
+           <span className="text-3xl sm:text-4xl md:text-6xl font-bold">Filter-Page</span>
             </div>
-              </div>
+
+             <div className="flex items-center gap-2">
+             <Repeat className="w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12" />
+                 <Link href="/filter-lowest-highest" className="text-xl sm:text-2xl md:text-3xl font-bold hover:underline">
+                   Lowest-Highest
+                 </Link>
+                </div>
+                  </div>
 
       {/* Loading State */}
       {loading ? (

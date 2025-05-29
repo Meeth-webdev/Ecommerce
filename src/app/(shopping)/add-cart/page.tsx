@@ -31,6 +31,9 @@ function Page() {
   const [isLoading, setIsLoading] = useState(false);
   const [expandedImage, setExpandedImage] = useState<string | null>(null);
   const { data: session, status } = useSession();
+  console.log("🧠 Session data:", session);
+  console.log("⏳ Session status:", status);
+
   const cartItemVariants = {
     hidden: { opacity: 0, y: 50 },
     visible: {
@@ -84,6 +87,9 @@ function Page() {
       console.error(err);
     }
   };
+  const handleClick=async()=>{
+    toast.success("This feature will be added in the future")
+  }
 
   if (status === "loading" ) {
     return <LoadingScreen/>
@@ -175,7 +181,7 @@ function Page() {
           <div className="flex flex-col items-center mt-2 mb-10">
             <p className="text-2xl font-semibold text-white">Total Amount:</p>
             <span className="text-3xl font-bold text-emerald-400 mt-1">${totalPrice.toFixed(2)}</span>
-            <Button className='bg-emerald-400 flex justify-center items-center'>
+            <Button onClick={handleClick} className='bg-emerald-400 flex justify-center items-center'>
             Checkout 
             </Button>
           </div>

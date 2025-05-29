@@ -1,29 +1,38 @@
-import mongoose from 'mongoose';
-import dotenv from 'dotenv';
-
-// Load environment variables from .env.local
-dotenv.config({ path: '.env.local' });
+// lib/dbConnect.ts
+import mongoose from "mongoose";
 
 const MONGODB_URI = process.env.MONGODB_URI;
 
 if (!MONGODB_URI) {
-  throw new Error("Please define the MONGODB_URI environment variable inside .env.local");
+  throw new Error("❌ MONGODB_URI is not defined in environment variables");
 }
 
-let cached = global.mongoose || { conn: null, promise: null };
+// Use a global variable to cache the connection across hot reloads
+let cached = (global).mongoose;
+
+if (!cached) {
+  cached = (global).mongoose = { conn: null, promise: null };
+}
 
 async function dbConnect() {
-  if (cached.conn) return cached.conn;
+  if (cached.conn) {
+    return cached.conn;
+  }
 
   if (!cached.promise) {
-    cached.promise = mongoose.connect(MONGODB_URI, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
+    cached.promise = mongoose.connect(MONGODB_URI, {}).then((mongoose) => {
+      return mongoose;
     });
   }
 
-  cached.conn = await cached.promise;
-  return cached.conn;
+  try {
+    cached.conn = await cached.promise;
+    console.log("✅ MongoDB connected");
+    return cached.conn;
+  } catch (error) {
+    console.error("❌ MongoDB connection error", error);
+    throw error;
+  }
 }
 
 export default dbConnect;

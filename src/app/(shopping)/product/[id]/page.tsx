@@ -70,6 +70,9 @@ function Page() {
       console.error(error);
     }
   };
+  const handleClick=async()=>{
+    toast.success("This feature will be added in the future")
+  }
 
 
   if (status === "loading" ) {
@@ -144,7 +147,7 @@ function Page() {
         <div>
 
         <Button
-      
+        onClick={handleClick}
       className="bg-emerald-600 hover:bg-emerald-700  items-center gap-2"
       disabled={isLoading} // optional, disables the button while loading
       >

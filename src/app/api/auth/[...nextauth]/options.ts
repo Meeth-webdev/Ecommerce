@@ -3,8 +3,7 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
 import dbConnect from "@/lib/dbConnect";
 import UserModel from "@/models/usermodel";
-
-
+ 
 export const authOptions: NextAuthOptions={
     providers:[
         CredentialsProvider({
@@ -69,6 +68,23 @@ export const authOptions: NextAuthOptions={
     session:{
         strategy:"jwt"
     },
+      // ✅ Add cookie config for production
+  cookies:
+  process.env.NODE_ENV === "production"
+    ? {
+        sessionToken: {
+          name: `__Secure-next-auth.session-token`,
+          options: {
+            httpOnly: true,
+            sameSite: "lax",
+            path: "/",
+            secure: true,
+            domain: ".ecom-store.in", // ✅ use your custom domain here
+          },
+        },
+      }
+    : undefined, // keep default in development
+
     
 
     secret:process.env.NEXTAUTH_SECRET ,
