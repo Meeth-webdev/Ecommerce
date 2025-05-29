@@ -22,5 +22,5 @@ export async function middleware(request: NextRequest) {
 
 // Matcher for protected routes
 export const config = {
-  matcher: ['/add-cart', '/profile', '/checkout'], // Specify only protected routes
+  matcher: [ '/profile', '/checkout'], // Specify only protected routes
 };
